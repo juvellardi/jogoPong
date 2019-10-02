@@ -1,0 +1,22 @@
+html, body{
+	box-sizing: border-box;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+}
+
+.main{
+	width: 100%;
+	height: 100vh;
+	background-color: turquoise;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.game {
+ width: 640px;
+ height: 480px;
+	background-color: white;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
