@@ -1,0 +1,24 @@
+{
+  "name": "jogoPong",
+  "version": "1.0.0",
+  "description": "https://juvellardi.github.io/jogoPong/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juvellardi/jogoPong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juvellardi/jogoPong/issues"
+  },
+  "homepage": "https://github.com/juvellardi/jogoPong#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^5.1.0"
+  }
+}
